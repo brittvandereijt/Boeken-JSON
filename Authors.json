@@ -1,0 +1,66 @@
+[
+  {
+    "id": "AUTH-001",
+    "name": "Sarah J. Maas",
+    "birthDate": "1986-03-05",
+    "nationality": "American",
+    "isActive": true,
+    "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/sjmaas.jpg"
+    "genres": ["Fantasy", "Romance", "Young Adult"]
+  },
+  {
+    "id": "AUTH-002",
+    "name": "George R. R. Martin",
+    "birthDate": "1948-09-20",
+    "nationality": "American",
+    "isActive": true,
+    "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/grrm.jpg"
+    "genres": ["Fantasy", "Epic", "Political"]
+  },
+  {
+    "id": "AUTH-003",
+    "name": "J.K. Rowling",
+    "birthDate": "1965-07-31",
+    "nationality": "British",
+    "isActive": true,
+    "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/jkrowling.jpg"
+    "genres": ["Fantasy", "Adventure", "Young Adult"]
+  },
+  {
+    "id": "AUTH-004",
+    "name": "Suzanne Collins",
+    "birthDate": "1962-08-10",
+    "nationality": "American",
+    "isActive": true,
+    "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/scollins.jpg"
+    "genres": ["Dystopian", "Young Adult", "Action"]
+  },
+  {
+    "id": "AUTH-005",
+    "name": "Madeline Miller",
+    "birthDate": "1978-07-24",
+    "nationality": "American",
+    "isActive": true,
+    "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/mmiller.jpg"
+    "genres": ["Historical Fiction", "Mythology", "Romance"]
+  },
+  {
+    "id": "AUTH-006",
+    "name": "Christina Lauren",
+    "birthDate": "1980-01-01",
+    "nationality": "American",
+    "isActive": true,
+    "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/clauren.jpg"
+    "genres": ["Romance", "Contemporary", "Humor"]
+  },
+  {
+    "id": "AUTH-007",
+    "name": "Adam Silvera",
+    "birthDate": "1990-06-07",
+    "nationality": "American",
+    "isActive": true,
+    "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/asilvera.jpg"
+    "genres": ["Young Adult", "Drama", "Romance"]
+  }
+]
+
