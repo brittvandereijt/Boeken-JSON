@@ -61,6 +61,14 @@
     "isActive": true,
     "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/asilvera.jpg"
     "genres": ["Young Adult", "Drama", "Romance"]
+  }, 
+  {
+    "id": "AUTH-008",
+    "name": "Colleen Hoover",
+    "birthDate": "1979-12-11",
+    "nationality": "American",
+    "isActive": true,
+    "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/colleenhoover.jpg",
+    "genres": ["Romance", "Drama", "Contemporary"]
   }
 ]
-
