@@ -1,0 +1,211 @@
+[
+  {
+    "id": "BOOK-001",
+    "title": "A Court Of Thorns and Roses",
+    "description": "A Court of Thorns and Roses follows Feyre Archeron, a mortal huntress who is brought into the faerie lands of Prythian after killing a wolf in the woods.",
+    "pages": 416,
+    "isBestseller": true,
+    "releaseDate": "2015-05-05",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/actar.jpg",
+    "genre": "Fantasy",
+    "tags": ["Romance", "Adventure", "Fantasy"],
+    "author": {
+      "id": "AUTH-001",
+      "name": "Sarah J. Maas",
+      "birthDate": "1986-03-05",
+      "nationality": "American",
+      "isActive": true,
+      "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/sjmaas.jpg"
+    }
+  },
+  {
+    "id": "BOOK-002",
+    "title": "A Court of Mist and Fury",
+    "description": "The sequel to A Court of Thorns and Roses, continuing the story of Feyre and the political intrigues of the faerie courts.",
+    "pages": 624,
+    "isBestseller": true,
+    "releaseDate": "2016-05-03",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/acmaf.jpg",
+    "genre": "Fantasy",
+    "tags": ["Romance", "Fantasy", "Drama"],
+    "author": {
+      "id": "AUTH-001",
+      "name": "Sarah J. Maas",
+      "birthDate": "1986-03-05",
+      "nationality": "American",
+      "isActive": true,
+      "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/sjmaas.jpg"
+    }
+  },
+  {
+    "id": "BOOK-003",
+    "title": "A Game of Thrones",
+    "description": "The first book in the A Song of Ice and Fire series, introducing the complex political and social conflicts of Westeros.",
+    "pages": 694,
+    "isBestseller": true,
+    "releaseDate": "1996-08-06",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/got1.jpg",
+    "genre": "Fantasy",
+    "tags": ["Political", "Epic", "Adventure"],
+    "author": {
+      "id": "AUTH-002",
+      "name": "George R. R. Martin",
+      "birthDate": "1948-09-20",
+      "nationality": "American",
+      "isActive": true,
+      "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/grrm.jpg"
+    }
+  },
+  {
+    "id": "BOOK-004",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "description": "The first book in the Harry Potter series, following Harry as he discovers he is a wizard and attends Hogwarts School of Witchcraft and Wizardry.",
+    "pages": 223,
+    "isBestseller": true,
+    "releaseDate": "1997-06-26",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/hp1.jpg",
+    "genre": "Fantasy",
+    "tags": ["Magic", "Adventure", "Young Adult"],
+    "author": {
+      "id": "AUTH-003",
+      "name": "J.K. Rowling",
+      "birthDate": "1965-07-31",
+      "nationality": "British",
+      "isActive": true,
+      "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/jkrowling.jpg"
+    }
+  },
+  {
+    "id": "BOOK-005",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "description": "The second installment in the Harry Potter series, featuring new challenges and mysteries at Hogwarts.",
+    "pages": 251,
+    "isBestseller": true,
+    "releaseDate": "1998-07-02",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/hp2.jpg",
+    "genre": "Fantasy",
+    "tags": ["Magic", "Mystery", "Adventure"],
+    "author": {
+      "id": "AUTH-003",
+      "name": "J.K. Rowling",
+      "birthDate": "1965-07-31",
+      "nationality": "British",
+      "isActive": true,
+      "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/jkrowling.jpg"
+    }
+  },
+  {
+    "id": "BOOK-006",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "description": "Harry Potter returns for his third year at Hogwarts, where he learns more about his past and encounters new threats.",
+    "pages": 317,
+    "isBestseller": true,
+    "releaseDate": "1999-07-08",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/hp3.jpg",
+    "genre": "Fantasy",
+    "tags": ["Magic", "Adventure", "Friendship"],
+    "author": {
+      "id": "AUTH-003",
+      "name": "J.K. Rowling",
+      "birthDate": "1965-07-31",
+      "nationality": "British",
+      "isActive": true,
+      "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/jkrowling.jpg"
+    }
+  },
+  {
+    "id": "BOOK-007",
+    "title": "The Hunger Games",
+    "description": "In a dystopian future, Katniss Everdeen volunteers in place of her sister in the deadly Hunger Games tournament.",
+    "pages": 374,
+    "isBestseller": true,
+    "releaseDate": "2008-09-14",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/thg.jpg",
+    "genre": "Dystopian",
+    "tags": ["Adventure", "Survival", "Action"],
+    "author": {
+      "id": "AUTH-004",
+      "name": "Suzanne Collins",
+      "birthDate": "1962-08-10",
+      "nationality": "American",
+      "isActive": true,
+      "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/scollins.jpg"
+    }
+  },
+  {
+    "id": "BOOK-008",
+    "title": "The Song of Achilles",
+    "description": "A retelling of the Iliad from the perspective of Patroclus, exploring his relationship with Achilles.",
+    "pages": 378,
+    "isBestseller": true,
+    "releaseDate": "2011-09-20",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/soa.jpg",
+    "genre": "Historical Fiction",
+    "tags": ["Romance", "Mythology", "Drama"],
+    "author": {
+      "id": "AUTH-005",
+      "name": "Madeline Miller",
+      "birthDate": "1978-07-24",
+      "nationality": "American",
+      "isActive": true,
+      "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/mmiller.jpg"
+    }
+  },
+  {
+    "id": "BOOK-009",
+    "title": "The Unhoneymooners",
+    "description": "Olive and Ethan, sworn enemies, are forced to go on a honeymoon together after the rest of the wedding guests get food poisoning.",
+    "pages": 384,
+    "isBestseller": true,
+    "releaseDate": "2019-05-14",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/unhoneymooners.jpg",
+    "genre": "Romance",
+    "tags": ["Romantic Comedy", "Humor", "Travel"],
+    "author": {
+      "id": "AUTH-006",
+      "name": "Christina Lauren",
+      "birthDate": "1980-01-01",
+      "nationality": "American",
+      "isActive": true,
+      "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/clauren.jpg"
+    }
+  },
+  {
+    "id": "BOOK-010",
+    "title": "They Both Die at the End",
+    "description": "On September 5th, Death-Cast calls Mateo Torrez and Rufus Emeterio to inform them that they will die within the next 24 hours, and they try to live their day to the fullest.",
+    "pages": 368,
+    "isBestseller": true,
+    "releaseDate": "2017-09-05",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/tbdatte.jpg",
+    "genre": "Young Adult",
+    "tags": ["Drama", "Romance", "Friendship"],
+    "author": {
+      "id": "AUTH-007",
+      "name": "Adam Silvera",
+      "birthDate": "1990-06-07",
+      "nationality": "American",
+      "isActive": true,
+      "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/asilvera.jpg"
+    }
+  },
+  {
+    "id": "BOOK-011",
+    "title": "Ugly Love",
+    "description": "A story about love and heartbreak, focusing on the complicated relationship between Tate and Miles.",
+    "pages": 352,
+    "isBestseller": true,
+    "releaseDate": "2014-08-05",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/uglylove.jpg",
+    "genre": "Romance",
+    "tags": ["Romance", "Drama", "Adult"],
+    "author": {
+      "id": "AUTH-006",
+      "name": "Christina Lauren",
+      "birthDate": "1980-01-01",
+      "nationality": "American",
+      "isActive": true,
+      "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/clauren.jpg"
+    }
+  }
+]
