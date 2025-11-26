@@ -1,0 +1,72 @@
+[
+  {
+    "id": "AUTH-001",
+    "name": "Suzanne Collins",
+    "bio": "Suzanne Collins is een Amerikaanse auteur, vooral bekend om haar dystopische young-adultreeks 'The Hunger Games'. Haar werk wordt gekenmerkt door politieke thema's, scherpe wereldbouw en sterke vrouwelijke hoofdpersonages.",
+    "birthYear": 1962,
+    "isActive": true,
+    "photoUrl": "https://example.com/images/authors/suzanne-collins.jpg",
+    "nationality": "American",
+    "genres": ["Dystopian", "Young Adult", "Adventure"]
+  },
+  {
+    "id": "AUTH-002",
+    "name": "J.K. Rowling",
+    "bio": "J.K. Rowling is een Britse schrijfster die wereldwijd bekend werd met de Harry Potter-reeks. Haar werk combineert magisch realisme, avontuur en coming-of-age elementen.",
+    "birthYear": 1965,
+    "isActive": true,
+    "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesAuth/JKRowling.jpeg",
+    "nationality": "British",
+    "genres": ["Fantasy", "Young Adult"]
+  },
+  {
+    "id": "AUTH-003",
+    "name": "George R.R. Martin",
+    "bio": "George R.R. Martin is een Amerikaanse schrijver en scenarist, vooral bekend om de epische fantasyreeks 'A Song of Ice and Fire'. Zijn werk staat bekend om politieke intriges, morele ambiguïteit en gedetailleerde wereldbouw.",
+    "birthYear": 1948,
+    "isActive": true,
+    "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesAuth/GeorgeRRMartin.jpg",
+    "nationality": "American",
+    "genres": ["Fantasy", "Drama", "Epic"]
+  },
+  {
+    "id": "AUTH-004",
+    "name": "Sarah J. Maas",
+    "bio": "Sarah J. Maas is een Amerikaanse fantasy-schrijfster die wereldwijd succes behaalde met haar reeksen 'A Court of Thorns and Roses' en 'Throne of Glass'.",
+    "birthYear": 1986,
+    "isActive": true,
+    "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/HockeySpelers-JSON/main/Images/ImagesAuth/SarahJMaas.jpg",
+    "nationality": "American",
+    "genres": ["Fantasy", "Romance"]
+  },
+  {
+    "id": "AUTH-005",
+    "name": "Shelby Mahurin",
+    "bio": "Shelby Mahurin is een Amerikaanse auteur die vooral bekendstaat om haar romantische fantasy-trilogie 'Serpent & Dove'.",
+    "birthYear": 1992,
+    "isActive": true,
+    "photoUrl": "https://example.com/images/authors/shelby-mahurin.jpg",
+    "nationality": "American",
+    "genres": ["Fantasy", "Romance", "Young Adult"]
+  },
+  {
+    "id": "AUTH-006",
+    "name": "Madeline Miller",
+    "bio": "Madeline Miller is een Amerikaanse schrijfster en classica, bekend om haar mythologische hervertellingen zoals 'The Song of Achilles' en 'Circe'.",
+    "birthYear": 1978,
+    "isActive": true,
+    "photoUrl": "https://example.com/images/authors/madeline-miller.jpg",
+    "nationality": "American",
+    "genres": ["Mythology", "Historical Fiction"]
+  },
+  {
+    "id": "AUTH-007",
+    "name": "Adam Silvera",
+    "bio": "Adam Silvera is een Amerikaanse auteur van LGBTQ+ young-adult romans met emotionele en existentiële thema’s.",
+    "birthYear": 1990,
+    "isActive": true,
+    "photoUrl": "https://example.com/images/authors/adam-silvera.jpg",
+    "nationality": "American",
+    "genres": ["Young Adult", "Drama"]
+  }
+]
