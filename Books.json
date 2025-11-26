@@ -15,7 +15,7 @@
       "birthDate": "1986-03-05",
       "nationality": "American",
       "isActive": true,
-      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/SarahJMaas.jpg"
+      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/SarahJMaas.jpg",
       "genres": ["Fantasy", "Romance", "Young Adult"]
     }
   },
@@ -35,7 +35,7 @@
       "birthDate": "1986-03-05",
       "nationality": "American",
       "isActive": true,
-      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/SarahJMaas.jpg"
+      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/SarahJMaas.jpg",
       "genres": ["Fantasy", "Romance", "Young Adult"]
     }
   },
@@ -55,7 +55,7 @@
       "birthDate": "1948-09-20",
       "nationality": "American",
       "isActive": true,
-      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/GeorgeRRMartin.jpg"
+      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/GeorgeRRMartin.jpg",
       "genres": ["Fantasy", "Epic", "Political"]
     }
   },
@@ -75,7 +75,7 @@
       "birthDate": "1965-07-31",
       "nationality": "British",
       "isActive": true,
-      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/JKRowling.jpeg"
+      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/JKRowling.jpeg",
       "genres": ["Fantasy", "Adventure", "Young Adult"]
     }
   },
@@ -95,7 +95,7 @@
       "birthDate": "1965-07-31",
       "nationality": "British",
       "isActive": true,
-      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/JKRowling.jpeg"
+      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/JKRowling.jpeg",
       "genres": ["Fantasy", "Adventure", "Young Adult"]
     }
   },
@@ -115,7 +115,7 @@
       "birthDate": "1965-07-31",
       "nationality": "British",
       "isActive": true,
-      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/JKRowling.jpeg"
+      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/JKRowling.jpeg",
       "genres": ["Fantasy", "Adventure", "Young Adult"]
     }
   },
@@ -135,7 +135,7 @@
       "birthDate": "1962-08-10",
       "nationality": "American",
       "isActive": true,
-      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/SuzanneCollins.jpg"
+      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/SuzanneCollins.jpg",
       "genres": ["Dystopian", "Young Adult", "Action"]
     }
   },
@@ -155,7 +155,7 @@
       "birthDate": "1978-07-24",
       "nationality": "American",
       "isActive": true,
-      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/MadelineMiller.jpg"
+      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/MadelineMiller.jpg",
       "genres": ["Historical Fiction", "Mythology", "Romance"]
     }
   },
@@ -175,7 +175,7 @@
       "birthDate": "1980-01-01",
       "nationality": "American",
       "isActive": true,
-      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/ChristinaLauren.jpg"
+      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/ChristinaLauren.jpg",
       "genres": ["Romance", "Contemporary", "Humor"]
     }
   },
@@ -195,7 +195,7 @@
       "birthDate": "1990-06-07",
       "nationality": "American",
       "isActive": true,
-      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/AdamSilvera.jpg"
+      "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/AdamSilvera.jpg",
       "genres": ["Young Adult", "Drama", "Romance"]
     }
   },
