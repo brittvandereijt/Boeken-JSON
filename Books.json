@@ -1,7 +1,7 @@
 [
   {
     "id": "BOOK-001",
-    "title": "A Court Of Thorns and Roses",
+    "title": "A Court of Thorns and Roses",
     "description": "A Court of Thorns and Roses follows Feyre Archeron, a mortal huntress who is brought into the faerie lands of Prythian after killing a wolf in the woods.",
     "pages": 416,
     "isBestseller": true,
@@ -16,6 +16,7 @@
       "nationality": "American",
       "isActive": true,
       "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/sjmaas.jpg"
+      "genres": ["Fantasy", "Romance", "Young Adult"]
     }
   },
   {
@@ -35,6 +36,7 @@
       "nationality": "American",
       "isActive": true,
       "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/sjmaas.jpg"
+      "genres": ["Fantasy", "Romance", "Young Adult"]
     }
   },
   {
@@ -54,6 +56,7 @@
       "nationality": "American",
       "isActive": true,
       "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/grrm.jpg"
+      "genres": ["Fantasy", "Epic", "Political"]
     }
   },
   {
@@ -73,6 +76,7 @@
       "nationality": "British",
       "isActive": true,
       "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/jkrowling.jpg"
+      "genres": ["Fantasy", "Adventure", "Young Adult"]
     }
   },
   {
@@ -92,6 +96,7 @@
       "nationality": "British",
       "isActive": true,
       "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/jkrowling.jpg"
+      "genres": ["Fantasy", "Adventure", "Young Adult"]
     }
   },
   {
@@ -111,6 +116,7 @@
       "nationality": "British",
       "isActive": true,
       "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/jkrowling.jpg"
+      "genres": ["Fantasy", "Adventure", "Young Adult"]
     }
   },
   {
@@ -130,6 +136,7 @@
       "nationality": "American",
       "isActive": true,
       "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/scollins.jpg"
+      "genres": ["Dystopian", "Young Adult", "Action"]
     }
   },
   {
@@ -149,6 +156,7 @@
       "nationality": "American",
       "isActive": true,
       "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/mmiller.jpg"
+      "genres": ["Historical Fiction", "Mythology", "Romance"]
     }
   },
   {
@@ -168,6 +176,7 @@
       "nationality": "American",
       "isActive": true,
       "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/clauren.jpg"
+      "genres": ["Romance", "Contemporary", "Humor"]
     }
   },
   {
@@ -187,9 +196,10 @@
       "nationality": "American",
       "isActive": true,
       "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/asilvera.jpg"
+      "genres": ["Young Adult", "Drama", "Romance"]
     }
   },
-  {
+    {
     "id": "BOOK-011",
     "title": "Ugly Love",
     "description": "A story about love and heartbreak, focusing on the complicated relationship between Tate and Miles.",
@@ -200,12 +210,14 @@
     "genre": "Romance",
     "tags": ["Romance", "Drama", "Adult"],
     "author": {
-      "id": "AUTH-006",
-      "name": "Christina Lauren",
-      "birthDate": "1980-01-01",
+      "id": "AUTH-008",
+      "name": "Colleen Hoover",
+      "birthDate": "1979-12-11",
       "nationality": "American",
       "isActive": true,
-      "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/clauren.jpg"
+      "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/colleenhoover.jpg",
+      "genres": ["Romance", "Drama", "Contemporary"]
     }
   }
 ]
+
