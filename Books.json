@@ -6,7 +6,7 @@
     "pages": 416,
     "isBestseller": true,
     "releaseDate": "2015-05-05",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/actar.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesCovers/ACourtOfThornesAndRoses.jpg",
     "genre": "Fantasy",
     "tags": ["Romance", "Adventure", "Fantasy"],
     "author": {
@@ -26,7 +26,7 @@
     "pages": 624,
     "isBestseller": true,
     "releaseDate": "2016-05-03",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/acmaf.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesCovers/ACourtOfMistAndFury.jpg",
     "genre": "Fantasy",
     "tags": ["Romance", "Fantasy", "Drama"],
     "author": {
@@ -46,7 +46,7 @@
     "pages": 694,
     "isBestseller": true,
     "releaseDate": "1996-08-06",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/got1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesCovers/AGameofThrones.jpg",
     "genre": "Fantasy",
     "tags": ["Political", "Epic", "Adventure"],
     "author": {
@@ -66,7 +66,7 @@
     "pages": 223,
     "isBestseller": true,
     "releaseDate": "1997-06-26",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/hp1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesCovers/HPAndThePhilosophersStone.jpg",
     "genre": "Fantasy",
     "tags": ["Magic", "Adventure", "Young Adult"],
     "author": {
@@ -86,7 +86,7 @@
     "pages": 251,
     "isBestseller": true,
     "releaseDate": "1998-07-02",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/hp2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesCovers/HPAndTheChamberOfSecrets.jpg",
     "genre": "Fantasy",
     "tags": ["Magic", "Mystery", "Adventure"],
     "author": {
@@ -106,7 +106,7 @@
     "pages": 317,
     "isBestseller": true,
     "releaseDate": "1999-07-08",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/hp3.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesCovers/HPAndThePrizonerOfAskaban.jpg",
     "genre": "Fantasy",
     "tags": ["Magic", "Adventure", "Friendship"],
     "author": {
@@ -126,7 +126,7 @@
     "pages": 374,
     "isBestseller": true,
     "releaseDate": "2008-09-14",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/thg.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesCovers/TheHungerGames.jpg",
     "genre": "Dystopian",
     "tags": ["Adventure", "Survival", "Action"],
     "author": {
@@ -146,7 +146,7 @@
     "pages": 378,
     "isBestseller": true,
     "releaseDate": "2011-09-20",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/soa.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesCovers/TheSongOfAchilles.jpg",
     "genre": "Historical Fiction",
     "tags": ["Romance", "Mythology", "Drama"],
     "author": {
@@ -166,7 +166,7 @@
     "pages": 384,
     "isBestseller": true,
     "releaseDate": "2019-05-14",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/unhoneymooners.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesCovers/TheUnhoneymooners.jpg",
     "genre": "Romance",
     "tags": ["Romantic Comedy", "Humor", "Travel"],
     "author": {
@@ -186,7 +186,7 @@
     "pages": 368,
     "isBestseller": true,
     "releaseDate": "2017-09-05",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/tbdatte.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesCovers/HPAndThePhilosophersStone.jpg",
     "genre": "Young Adult",
     "tags": ["Drama", "Romance", "Friendship"],
     "author": {
@@ -206,7 +206,7 @@
     "pages": 352,
     "isBestseller": true,
     "releaseDate": "2014-08-05",
-    "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/uglylove.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesCovers/HPAndThePhilosophersStone.jpg",
     "genre": "Romance",
     "tags": ["Romance", "Drama", "Adult"],
     "author": {
