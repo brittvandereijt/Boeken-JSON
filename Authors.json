@@ -5,7 +5,7 @@
     "birthDate": "1986-03-05",
     "nationality": "American",
     "isActive": true,
-    "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/sjmaas.jpg"
+    "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/SarahJMaas.jpg",
     "genres": ["Fantasy", "Romance", "Young Adult"]
   },
   {
@@ -14,7 +14,7 @@
     "birthDate": "1948-09-20",
     "nationality": "American",
     "isActive": true,
-    "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/grrm.jpg"
+    "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/GeorgeRRMartin.jpg",
     "genres": ["Fantasy", "Epic", "Political"]
   },
   {
@@ -23,7 +23,7 @@
     "birthDate": "1965-07-31",
     "nationality": "British",
     "isActive": true,
-    "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/jkrowling.jpg"
+    "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/JKRowling.jpg",
     "genres": ["Fantasy", "Adventure", "Young Adult"]
   },
   {
@@ -32,7 +32,7 @@
     "birthDate": "1962-08-10",
     "nationality": "American",
     "isActive": true,
-    "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/scollins.jpg"
+    "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/SuzanneCollins.jpg",
     "genres": ["Dystopian", "Young Adult", "Action"]
   },
   {
@@ -41,7 +41,7 @@
     "birthDate": "1978-07-24",
     "nationality": "American",
     "isActive": true,
-    "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/mmiller.jpg"
+    "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/MadelineMiller.jpg",
     "genres": ["Historical Fiction", "Mythology", "Romance"]
   },
   {
@@ -50,7 +50,7 @@
     "birthDate": "1980-01-01",
     "nationality": "American",
     "isActive": true,
-    "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/clauren.jpg"
+    "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/ChristinaLauren.jpg",
     "genres": ["Romance", "Contemporary", "Humor"]
   },
   {
@@ -59,7 +59,7 @@
     "birthDate": "1990-06-07",
     "nationality": "American",
     "isActive": true,
-    "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/asilvera.jpg"
+    "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/AdamSilvera.jpg",
     "genres": ["Young Adult", "Drama", "Romance"]
   }, 
   {
@@ -68,7 +68,7 @@
     "birthDate": "1979-12-11",
     "nationality": "American",
     "isActive": true,
-    "photoUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/colleenhoover.jpg",
+    "photoUrl": "https://raw.githubusercontent.com/brittvandereijt/Boeken-JSON/main/images/ImagesAuth/ColleenHoover.jpg",
     "genres": ["Romance", "Drama", "Contemporary"]
   }
 ]
